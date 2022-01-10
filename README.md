@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a Data Scientist live in the US.
+A Data Scientist ...
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
 <br>
